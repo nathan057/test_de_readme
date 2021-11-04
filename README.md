@@ -9,7 +9,8 @@ Source: https://quote-citation.com/fr/topic/citations-de-wayne-gretzky
 ## Titre 2
 
 ![lien vers photo ](medias/github.jfif)
-![Lien vers la photo version gif](medias/github_gif.gif
+
+![Lien vers la photo version gif](medias/github_gif.gif)
 
 ### Titre 3
 1. Connor Mcdavid
