@@ -4,7 +4,7 @@
 
 ## Titre 2
 
-![lien vers photo ](medias/
+![lien vers photo ](medias/github.jfif)
 
 ### Titre 3
 
